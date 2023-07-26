@@ -1,5 +1,6 @@
 *food*
 **manu**
-chiecken
+chicken
 fish
 rice
+maize
